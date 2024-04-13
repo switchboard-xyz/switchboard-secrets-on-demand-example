@@ -1,1 +1,1 @@
-switchboard-secrets-on-demand-example
+# switchboard-secrets-on-demand-example
